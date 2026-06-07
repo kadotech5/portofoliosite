@@ -1,0 +1,12 @@
+{
+  "name": "projetdemoi",
+  "version": "1.0.0",
+  "description": "portofolio site ",
+  "license": "ISC",
+  "author": "Ricard Mondesir",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
